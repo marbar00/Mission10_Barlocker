@@ -59,3 +59,4 @@ C:\Users\markbarlocker\source\repos\Mission10_Barlocker\backend\Mission10\obj\De
 C:\Users\markbarlocker\source\repos\Mission10_Barlocker\backend\Mission10\obj\Debug\net8.0\Mission10.pdb
 C:\Users\markbarlocker\source\repos\Mission10_Barlocker\backend\Mission10\obj\Debug\net8.0\Mission10.genruntimeconfig.cache
 C:\Users\markbarlocker\source\repos\Mission10_Barlocker\backend\Mission10\obj\Debug\net8.0\ref\Mission10.dll
+C:\Users\markbarlocker\source\repos\Mission10_Barlocker\backend\Mission10\obj\Debug\net8.0\Mission10.sourcelink.json
